@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Cesar Piña</h1>
-<h3 align="center">A passionate developer from México</h3>
+<h3 align="center">A passionate developer from México, dedicated to crafting innovative solutions and creating remarkable software. </h3>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
